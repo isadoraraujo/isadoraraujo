@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Isadora Araújo
+- 🌱 I’m currently learning about JavaScript 
