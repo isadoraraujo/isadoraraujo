@@ -2,7 +2,7 @@
 ### Bem vindo(a) ao meu perfil GitHub 👋
 
 - 😄 Pronomes: ela/dela
-- 🔭 Atualmente estou trabalhando como Associate FullStack na Avanade Brasil!
+- 🔭 Atualmente estou trabalhando como Associate FullStack na Avanade Brasil
 - 🌱 Atualmente estou aprendendo desenvolvimento web fullstack
 - ⚡ Curiosidade: fiz uma transição de carreira da área de humanas! (atualmente estudo Análise e Desenvolvimento de Sistemas)
 
